@@ -39,4 +39,4 @@ public class WeatherData implements Subject{
     {
 
     }
-}
+}(aibolTungatarov)
